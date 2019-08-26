@@ -1,0 +1,9 @@
+Some resources with APIs:
+
+Census Bureau https://www.census.gov/data/developers/updates/new-discovery-tool.html
+
+Specific data on housing: https://www.census.gov/data/developers/data-sets/decennial-census.html
+
+Poverty statistics: https://www.census.gov/data/developers/data-sets/Poverty-Statistics.html
+
+Current housing prices: https://blog.quandl.com/api-for-housing-data
