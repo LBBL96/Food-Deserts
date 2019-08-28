@@ -1,0 +1,22 @@
+The USDA defines what's considered a food desert and which areas will be helped by this initiative:
+	To qualify as a “low-access community,” at least 500 people and/or at least 33 percent of the census tract's
+	population must reside more than one mile from a supermarket or large grocery store (for rural census tracts,
+	the distance is more than 10 miles).
+
+classify location with [Urban, Suburban, Rural]
+
+Add column on dataframe ["food deserted"]
+seperate all rows in location groups
+iterate over each row with 
+	elif row == Urban then
+		if distfromfood>1
+		then row["food deserted"]="True"
+		else Pass
+	elif row == Suburban then
+		if distfromfood>3
+		then row["food deserted"]="True"
+		else Pass
+	else row == Rural then
+		if distfromfood>10
+		then row["food deserted"]="True"
+		else Pass
