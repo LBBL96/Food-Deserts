@@ -1,62 +1,62 @@
-School,Closest Store,Store Address,Driving Distance (miles),Bus Distance (miles),Percent in Poverty
-Allison Elementary,H-E-B,"2110 W Slaughter Ln, Austin",1.0 mi,1.3 mi,92.0
-Andrews Elementary School,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.2 mi,1.6 mi,91.02
-Becker Elementary School,H-E-B,"2400 S Congress Ave, Austin",1.3 mi,1.3 mi,64.52
-Blackshear Elementary School,H-E-B,"2701 E 7th St, Austin",1.2 mi,1.2 mi,82.49
-Blanton Elementary,H-E-B,"1801 E 51st St, Austin",1.0 mi,1.1 mi,65.23
-Brooke Elementary School,H-E-B,"2701 E 7th St, Austin",0.6 mi,0.7 mi,92.22
-T.A. Brown Elementary School,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.6 mi,1.7 mi,89.63
-Campbell Elementary,Fiesta Mart,"3909 North Interstate 35 Frontage Road, Austin",1.1 mi,1.4 mi,81.45
-Cunningham Elementary School,H-E-B,"600 W William Cannon Dr, Austin",2.0 mi,2.0 mi,45.89
-Dawson Elementary School,H-E-B,"2400 S Congress Ave, Austin",1.0 mi,1.0 mi,70.92
-Govalle Elementary School,H-E-B,"2701 E 7th St, Austin",1.6 mi,1.4 mi,89.95
-Harris Elementary School,H-E-B,"1801 E 51st St, Austin",1.3 mi,1.4 mi,91.71
-Joslin Elementary School,Randalls,"2025 W Ben White Blvd, Austin",0.2 mi,0.2 mi,65.7
-Mathews Elementary School,Whole Foods Market,"525 North Lamar Boulevard, Austin",1.0 mi,1.1 mi,33.93
-Metz Elementary School,H-E-B,"2701 E 7th St, Austin",1.0 mi,1.1 mi,89.9
-Oak Springs Elementary School,H-E-B,"2701 E 7th St, Austin",1.2 mi,1.2 mi,95.75
-Ortega Elementary School,H-E-B,"2701 E 7th St, Austin",2.7 mi,3.0 mi,82.64
-Sanchez Elementary School,H-E-B,"2701 E 7th St, Austin",1.0 mi,1.1 mi,94.83
-Pecan Springs Elementary School,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.3 mi,1.7 mi,89.57
-Pleasant Hill Elementary School,H-E-B,"600 W William Cannon Dr, Austin",0.9 mi,1.0 mi,6.59
-Reilly Elementary School,H-E-B,"5808 Burnet Rd, Austin",1.6 mi,1.9 mi,69.78
-Ridgetop Elementary School,H-E-B,"1000 E 41st St, Austin",0.9 mi,1.5 mi,43.01
-St. Elmo Elementary School,Supermercado Poco Loco,"611 West Ben White Boulevard, Austin",0.5 mi,0.5 mi,77.29
-Sims Elementary School,H-E-B,"1801 E 51st St, Austin",2.3 mi,2.9 mi,92.31
-Travis Heights Elementary School,H-E-B,"2400 S Congress Ave, Austin",0.9 mi,1.1 mi,71.2
-Walnut Creek Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",1.7 mi,1.8 mi,89.91
-Wooten Elementary School,Walmart Supercenter,"2525 West Anderson Lane, Austin",1.2 mi,1.6 mi,90.64
-Zavala Elementary School,H-E-B,"2701 E 7th St, Austin",0.7 mi,0.8 mi,90.99
-Menchaca Elementary School,H-E-B,"2110 W Slaughter Ln, Austin",2.8 mi,2.7 mi,42.84
-Oak Hill Elementary School,H-E-B,"7010 TX-71, Austin",1.2 mi,2.6 mi,40.59
-Barrington Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",0.4 mi,0.6 mi,93.09
-Norman Elementary School,H-E-B,"1801 E 51st St, Austin",3.0 mi,3.1 mi,92.81
-Pillow Elementary School,Walmart Supercenter,"2525 West Anderson Lane, Austin",1.3 mi,1.4 mi,71.05
-Wooldridge Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",1.3 mi,1.3 mi,91.84
-Odom Elementary School,H-E-B,"600 W William Cannon Dr, Austin",0.9 mi,0.9 mi,80.89
-Winn Elementary School,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",0.2 mi,0.2 mi,90.63
-Sunset Valley Elementary School,Randalls,"2025 W Ben White Blvd, Austin",1.4 mi,1.4 mi,63.52
-Graham Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",2.8 mi,2.9 mi,86.91
-Linder Elementary School,Walmart Supercenter,"710 East Ben White Boulevard, Austin",1.8 mi,1.6 mi,91.18
-Katherine A Cook Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",1.4 mi,1.5 mi,92.52
-Josephine Houston Elementary School,Fiesta Mart,"5510 Interstate 35, Austin",0.9 mi,1.1 mi,93.54
-Hart Elementary School,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",0.5 mi,0.7 mi,97.39
-Pickle Elementary School,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.5 mi,2.0 mi,95.47
-Mc Bee Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",1.8 mi,2.0 mi,93.01
-Williams Elementary School,H-E-B,"600 W William Cannon Dr, Austin",1.5 mi,1.6 mi,73.45
-Langford Elementary School,H-E-B,"6607 S IH 35 Frontage Rd, Austin",1.0 mi,0.9 mi,94.29
-Boone Elementary School,H-E-B,"6900 Brodie Ln, Austin",1.4 mi,1.5 mi,42.68
-Palm Elementary School,H-E-B,"6607 S IH 35 Frontage Rd, Austin",3.2 mi,3.5 mi,83.54
-Kocurek Elementary School,H-E-B,"2110 W Slaughter Ln, Austin",1.1 mi,1.2 mi,60.95
-Casey Elementary School,H-E-B,"2110 W Slaughter Ln, Austin",0.9 mi,1.1 mi,54.22
-Rodriguez Elementary School,Fiesta Mart,"5510 Interstate 35, Austin",1.8 mi,2.0 mi,96.83
-Widen Elementary School,Fiesta Mart,"5510 Interstate 35, Austin",1.9 mi,2.4 mi,93.41
-Galindo Elementary School,Supermercado Poco Loco,"611 West Ben White Boulevard, Austin",0.7 mi,0.7 mi,88.25
-Uphaus Early Childhood Center,Fiesta Mart,"5510 Interstate 35, Austin",1.2 mi,1.5 mi,80.88
-Barbara Jordan Elementary School,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.9 mi,2.6 mi,94.03
-Blazier Elementary School,H-E-B,"6607 S IH 35 Frontage Rd, Austin",3.9 mi,5.1 mi,69.76
-Dr. Guerrero-Thompson Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",0.6 mi,0.7 mi,96.27
-Padrón Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",1.5 mi,1.5 mi,94.62
-Overton Elementary School,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",2.8 mi,3.8 mi,94.68
-Perez Elementary School,H-E-B,"6607 S IH 35 Frontage Rd, Austin",2.6 mi,2.5 mi,88.01
-Webb Primary School,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.8 mi,4.8 mi,97.48
+School,Closest Store,Store Address,Driving Distance (miles),Bus Distance (miles),Percent in Poverty,Location
+Allison Elementary,H-E-B,"2110 W Slaughter Ln, Austin",1.0 mi,1.3 mi,92.0,Austin
+Andrews Elementary School,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.2 mi,1.6 mi,91.02,Austin
+Becker Elementary School,H-E-B,"2400 S Congress Ave, Austin",1.3 mi,1.3 mi,64.52,Austin
+Blackshear Elementary School,H-E-B,"2701 E 7th St, Austin",1.2 mi,1.2 mi,82.49,Austin
+Blanton Elementary,H-E-B,"1801 E 51st St, Austin",1.0 mi,1.1 mi,65.23,Austin
+Brooke Elementary School,H-E-B,"2701 E 7th St, Austin",0.6 mi,0.7 mi,92.22,Austin
+T.A. Brown Elementary School,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.6 mi,1.7 mi,89.63,Austin
+Campbell Elementary,Fiesta Mart,"3909 North Interstate 35 Frontage Road, Austin",1.1 mi,1.4 mi,81.45,Austin
+Cunningham Elementary School,H-E-B,"600 W William Cannon Dr, Austin",2.0 mi,2.0 mi,45.89,Austin
+Dawson Elementary School,H-E-B,"2400 S Congress Ave, Austin",1.0 mi,1.0 mi,70.92,Austin
+Govalle Elementary School,H-E-B,"2701 E 7th St, Austin",1.6 mi,1.4 mi,89.95,Austin
+Harris Elementary School,H-E-B,"1801 E 51st St, Austin",1.3 mi,1.4 mi,91.71,Austin
+Joslin Elementary School,Randalls,"2025 W Ben White Blvd, Austin",0.2 mi,0.2 mi,65.7,Austin
+Mathews Elementary School,Whole Foods Market,"525 North Lamar Boulevard, Austin",1.0 mi,1.1 mi,33.93,Austin
+Metz Elementary School,H-E-B,"2701 E 7th St, Austin",1.0 mi,1.1 mi,89.9,Austin
+Oak Springs Elementary School,H-E-B,"2701 E 7th St, Austin",1.2 mi,1.2 mi,95.75,Austin
+Ortega Elementary School,H-E-B,"2701 E 7th St, Austin",2.7 mi,3.0 mi,82.64,Austin
+Sanchez Elementary School,H-E-B,"2701 E 7th St, Austin",1.0 mi,1.1 mi,94.83,Austin
+Pecan Springs Elementary School,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.3 mi,1.7 mi,89.57,Austin
+Pleasant Hill Elementary School,H-E-B,"600 W William Cannon Dr, Austin",0.9 mi,1.0 mi,6.59,Austin
+Reilly Elementary School,H-E-B,"5808 Burnet Rd, Austin",1.6 mi,1.9 mi,69.78,Austin
+Ridgetop Elementary School,H-E-B,"1000 E 41st St, Austin",0.9 mi,1.5 mi,43.01,Austin
+St. Elmo Elementary School,Supermercado Poco Loco,"611 West Ben White Boulevard, Austin",0.5 mi,0.5 mi,77.29,Austin
+Sims Elementary School,H-E-B,"1801 E 51st St, Austin",2.3 mi,2.9 mi,92.31,Austin
+Travis Heights Elementary School,H-E-B,"2400 S Congress Ave, Austin",0.9 mi,1.1 mi,71.2,Austin
+Walnut Creek Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",1.7 mi,1.8 mi,89.91,Austin
+Wooten Elementary School,Walmart Supercenter,"2525 West Anderson Lane, Austin",1.2 mi,1.6 mi,90.64,Austin
+Zavala Elementary School,H-E-B,"2701 E 7th St, Austin",0.7 mi,0.8 mi,90.99,Austin
+Menchaca Elementary School,H-E-B,"2110 W Slaughter Ln, Austin",2.8 mi,2.7 mi,42.84,Austin
+Oak Hill Elementary School,H-E-B,"7010 TX-71, Austin",1.2 mi,2.6 mi,40.59,Austin
+Barrington Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",0.4 mi,0.6 mi,93.09,Austin
+Norman Elementary School,H-E-B,"1801 E 51st St, Austin",3.0 mi,3.1 mi,92.81,Austin
+Pillow Elementary School,Walmart Supercenter,"2525 West Anderson Lane, Austin",1.3 mi,1.4 mi,71.05,Austin
+Wooldridge Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",1.3 mi,1.3 mi,91.84,Austin
+Odom Elementary School,H-E-B,"600 W William Cannon Dr, Austin",0.9 mi,0.9 mi,80.89,Austin
+Winn Elementary School,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",0.2 mi,0.2 mi,90.63,Austin
+Sunset Valley Elementary School,Randalls,"2025 W Ben White Blvd, Austin",1.4 mi,1.4 mi,63.52,Austin
+Graham Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",2.8 mi,2.9 mi,86.91,Austin
+Linder Elementary School,Walmart Supercenter,"710 East Ben White Boulevard, Austin",1.8 mi,1.6 mi,91.18,Austin
+Katherine A Cook Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",1.4 mi,1.5 mi,92.52,Austin
+Josephine Houston Elementary School,Fiesta Mart,"5510 Interstate 35, Austin",0.9 mi,1.1 mi,93.54,Austin
+Hart Elementary School,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",0.5 mi,0.7 mi,97.39,Austin
+Pickle Elementary School,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.5 mi,2.0 mi,95.47,Austin
+Mc Bee Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",1.8 mi,2.0 mi,93.01,Austin
+Williams Elementary School,H-E-B,"600 W William Cannon Dr, Austin",1.5 mi,1.6 mi,73.45,Austin
+Langford Elementary School,H-E-B,"6607 S IH 35 Frontage Rd, Austin",1.0 mi,0.9 mi,94.29,Austin
+Boone Elementary School,H-E-B,"6900 Brodie Ln, Austin",1.4 mi,1.5 mi,42.68,Austin
+Palm Elementary School,H-E-B,"6607 S IH 35 Frontage Rd, Austin",3.2 mi,3.5 mi,83.54,Austin
+Kocurek Elementary School,H-E-B,"2110 W Slaughter Ln, Austin",1.1 mi,1.2 mi,60.95,Austin
+Casey Elementary School,H-E-B,"2110 W Slaughter Ln, Austin",0.9 mi,1.1 mi,54.22,Austin
+Rodriguez Elementary School,Fiesta Mart,"5510 Interstate 35, Austin",1.8 mi,2.0 mi,96.83,Austin
+Widen Elementary School,Fiesta Mart,"5510 Interstate 35, Austin",1.9 mi,2.4 mi,93.41,Austin
+Galindo Elementary School,Supermercado Poco Loco,"611 West Ben White Boulevard, Austin",0.7 mi,0.7 mi,88.25,Austin
+Uphaus Early Childhood Center,Fiesta Mart,"5510 Interstate 35, Austin",1.2 mi,1.5 mi,80.88,Austin
+Barbara Jordan Elementary School,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.9 mi,2.6 mi,94.03,Austin
+Blazier Elementary School,H-E-B,"6607 S IH 35 Frontage Rd, Austin",3.9 mi,5.1 mi,69.76,Austin
+Dr. Guerrero-Thompson Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",0.6 mi,0.7 mi,96.27,Austin
+Padrón Elementary School,H-E-B,"9414 N Lamar Blvd, Austin",1.5 mi,1.5 mi,94.62,Austin
+Overton Elementary School,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",2.8 mi,3.8 mi,94.68,Austin
+Perez Elementary School,H-E-B,"6607 S IH 35 Frontage Rd, Austin",2.6 mi,2.5 mi,88.01,Austin
+Webb Primary School,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.8 mi,4.8 mi,97.48,Austin
