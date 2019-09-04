@@ -1,61 +1,61 @@
-School,Location,Closest Store,Store Address,Driving Distance (miles),Bus Distance (miles),Percent in Poverty
-Allison Elementary,Austin,H-E-B,"2110 W Slaughter Ln, Austin",1.0,1.3,92.0
-Andrews Elementary School,Austin,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.2,1.6,91.02
-Becker Elementary School,Austin,H-E-B,"2400 S Congress Ave, Austin",1.3,1.3,64.52
-Blackshear Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",1.2,1.2,82.49
-Blanton Elementary,Austin,H-E-B,"1801 E 51st St, Austin",1.0,1.1,65.23
-Brooke Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",0.6,0.7,92.22
-T.A. Brown Elementary School,Austin,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.6,1.7,89.63
-Campbell Elementary,Austin,Fiesta Mart,"3909 North Interstate 35 Frontage Road, Austin",1.1,1.4,81.45
-Cunningham Elementary School,Austin,H-E-B,"600 W William Cannon Dr, Austin",2.0,2.0,45.89
-Dawson Elementary School,Austin,H-E-B,"2400 S Congress Ave, Austin",1.0,1.0,70.92
-Govalle Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",1.6,1.4,89.95
-Harris Elementary School,Austin,H-E-B,"1801 E 51st St, Austin",1.3,1.4,91.71
-Joslin Elementary School,Austin,Randalls,"2025 W Ben White Blvd, Austin",0.2,0.2,65.7
-Mathews Elementary School,Austin,Whole Foods Market,"525 North Lamar Boulevard, Austin",1.0,1.1,33.93
-Metz Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",1.0,1.1,89.9
-Oak Springs Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",1.2,1.2,95.75
-Ortega Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",2.7,3.0,82.64
-Sanchez Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",1.0,1.1,94.83
-Pecan Springs Elementary School,Austin,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.3,1.7,89.57
-Reilly Elementary School,Austin,H-E-B,"5808 Burnet Rd, Austin",1.6,1.9,69.78
-Ridgetop Elementary School,Austin,H-E-B,"1000 E 41st St, Austin",0.9,1.5,43.01
-St. Elmo Elementary School,Austin,Supermercado Poco Loco,"611 West Ben White Boulevard, Austin",0.5,0.5,77.29
-Sims Elementary School,Austin,H-E-B,"1801 E 51st St, Austin",2.3,2.9,92.31
-Travis Heights Elementary School,Austin,H-E-B,"2400 S Congress Ave, Austin",0.9,1.1,71.2
-Walnut Creek Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",1.7,1.8,89.91
-Wooten Elementary School,Austin,Walmart Supercenter,"2525 West Anderson Lane, Austin",1.2,1.6,90.64
-Zavala Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",0.7,0.8,90.99
-Menchaca Elementary School,Austin,H-E-B,"2110 W Slaughter Ln, Austin",2.8,2.7,42.84
-Oak Hill Elementary School,Austin,H-E-B,"7010 TX-71, Austin",1.2,2.6,40.59
-Barrington Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",0.4,0.6,93.09
-Norman Elementary School,Austin,H-E-B,"1801 E 51st St, Austin",3.0,3.1,92.81
-Pillow Elementary School,Austin,Walmart Supercenter,"2525 West Anderson Lane, Austin",1.3,1.4,71.05
-Wooldridge Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",1.3,1.3,91.84
-Odom Elementary School,Austin,H-E-B,"600 W William Cannon Dr, Austin",0.9,0.9,80.89
-Winn Elementary School,Austin,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",0.2,0.2,90.63
-Sunset Valley Elementary School,Austin,Randalls,"2025 W Ben White Blvd, Austin",1.4,1.4,63.52
-Graham Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",2.8,2.9,86.91
-Linder Elementary School,Austin,Walmart Supercenter,"710 East Ben White Boulevard, Austin",1.8,1.6,91.18
-Katherine A Cook Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",1.4,1.5,92.52
-Josephine Houston Elementary School,Austin,Fiesta Mart,"5510 Interstate 35, Austin",0.9,1.1,93.54
-Hart Elementary School,Austin,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",0.5,0.7,97.39
-Pickle Elementary School,Austin,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.5,2.0,95.47
-Mc Bee Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",1.8,2.0,93.01
-Williams Elementary School,Austin,H-E-B,"600 W William Cannon Dr, Austin",1.5,1.6,73.45
-Langford Elementary School,Austin,H-E-B,"6607 S IH 35 Frontage Rd, Austin",1.0,0.9,94.29
-Boone Elementary School,Austin,H-E-B,"6900 Brodie Ln, Austin",1.4,1.5,42.68
-Palm Elementary School,Austin,H-E-B,"6607 S IH 35 Frontage Rd, Austin",3.2,3.5,83.54
-Kocurek Elementary School,Austin,H-E-B,"2110 W Slaughter Ln, Austin",1.1,1.2,60.95
-Casey Elementary School,Austin,H-E-B,"2110 W Slaughter Ln, Austin",0.9,1.1,54.22
-Rodriguez Elementary School,Austin,Fiesta Mart,"5510 Interstate 35, Austin",1.8,2.0,96.83
-Widen Elementary School,Austin,Fiesta Mart,"5510 Interstate 35, Austin",1.9,2.4,93.41
-Galindo Elementary School,Austin,Supermercado Poco Loco,"611 West Ben White Boulevard, Austin",0.7,0.7,88.25
-Uphaus Early Childhood Center,Austin,Fiesta Mart,"5510 Interstate 35, Austin",1.2,1.5,80.88
-Barbara Jordan Elementary School,Austin,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.9,2.6,94.03
-Blazier Elementary School,Austin,H-E-B,"6607 S IH 35 Frontage Rd, Austin",3.9,5.1,69.76
-Dr. Guerrero-Thompson Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",0.6,0.7,96.27
-Padrón Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",1.5,1.5,94.62
-Overton Elementary School,Austin,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",2.8,3.8,94.68
-Perez Elementary School,Austin,H-E-B,"6607 S IH 35 Frontage Rd, Austin",2.6,2.5,88.01
-Webb Primary School,Austin,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.8,4.8,97.48
+School,Location,Closest Store,Store Address,Driving Distance (miles),Bus Distance (miles),Percent in Poverty,Zip Code
+Allison Elementary,Austin,H-E-B,"2110 W Slaughter Ln, Austin",1.0,1.3,92.0,78748
+Andrews Elementary School,Austin,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.2,1.6,91.02,78723
+Becker Elementary School,Austin,H-E-B,"2400 S Congress Ave, Austin",1.3,1.3,64.52,78704
+Blackshear Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",1.2,1.2,82.49,78702
+Blanton Elementary,Austin,H-E-B,"1801 E 51st St, Austin",1.0,1.1,65.23,78723
+Brooke Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",0.6,0.7,92.22,78702
+T.A. Brown Elementary School,Austin,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.6,1.7,89.63,78752
+Campbell Elementary,Austin,Fiesta Mart,"3909 North Interstate 35 Frontage Road, Austin",1.1,1.4,81.45,78722
+Cunningham Elementary School,Austin,H-E-B,"600 W William Cannon Dr, Austin",2.0,2.0,45.89,78745
+Dawson Elementary School,Austin,H-E-B,"2400 S Congress Ave, Austin",1.0,1.0,70.92,78704
+Govalle Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",1.6,1.4,89.95,78702
+Harris Elementary School,Austin,H-E-B,"1801 E 51st St, Austin",1.3,1.4,91.71,78723
+Joslin Elementary School,Austin,Randalls,"2025 W Ben White Blvd, Austin",0.2,0.2,65.7,78745
+Mathews Elementary School,Austin,Whole Foods Market,"525 North Lamar Boulevard, Austin",1.0,1.1,33.93,78703
+Metz Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",1.0,1.1,89.9,78702
+Oak Springs Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",1.2,1.2,95.75,78702
+Ortega Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",2.7,3.0,82.64,78721
+Sanchez Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",1.0,1.1,94.83,78702
+Pecan Springs Elementary School,Austin,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.3,1.7,89.57,78723
+Reilly Elementary School,Austin,H-E-B,"5808 Burnet Rd, Austin",1.6,1.9,69.78,78745
+Ridgetop Elementary School,Austin,H-E-B,"1000 E 41st St, Austin",0.9,1.5,43.01,78752
+St. Elmo Elementary School,Austin,Supermercado Poco Loco,"611 West Ben White Boulevard, Austin",0.5,0.5,77.29,78751
+Sims Elementary School,Austin,H-E-B,"1801 E 51st St, Austin",2.3,2.9,92.31,78745
+Travis Heights Elementary School,Austin,H-E-B,"2400 S Congress Ave, Austin",0.9,1.1,71.2,78721
+Walnut Creek Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",1.7,1.8,89.91,78704
+Wooten Elementary School,Austin,Walmart Supercenter,"2525 West Anderson Lane, Austin",1.2,1.6,90.64,78753
+Zavala Elementary School,Austin,H-E-B,"2701 E 7th St, Austin",0.7,0.8,90.99,78757
+Menchaca Elementary School,Austin,H-E-B,"2110 W Slaughter Ln, Austin",2.8,2.7,42.84,78702
+Oak Hill Elementary School,Austin,H-E-B,"7010 TX-71, Austin",1.2,2.6,40.59,78748
+Barrington Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",0.4,0.6,93.09,78735
+Norman Elementary School,Austin,H-E-B,"1801 E 51st St, Austin",3.0,3.1,92.81,78753
+Pillow Elementary School,Austin,Walmart Supercenter,"2525 West Anderson Lane, Austin",1.3,1.4,71.05,78721
+Wooldridge Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",1.3,1.3,91.84,78757
+Odom Elementary School,Austin,H-E-B,"600 W William Cannon Dr, Austin",0.9,0.9,80.89,78758
+Winn Elementary School,Austin,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",0.2,0.2,90.63,78745
+Sunset Valley Elementary School,Austin,Randalls,"2025 W Ben White Blvd, Austin",1.4,1.4,63.52,78723
+Graham Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",2.8,2.9,86.91,78745
+Linder Elementary School,Austin,Walmart Supercenter,"710 East Ben White Boulevard, Austin",1.8,1.6,91.18,78753
+Katherine A Cook Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",1.4,1.5,92.52,78741
+Josephine Houston Elementary School,Austin,Fiesta Mart,"5510 Interstate 35, Austin",0.9,1.1,93.54,78758
+Hart Elementary School,Austin,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",0.5,0.7,97.39,78744
+Pickle Elementary School,Austin,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.5,2.0,95.47,78753
+Mc Bee Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",1.8,2.0,93.01,78752
+Williams Elementary School,Austin,H-E-B,"600 W William Cannon Dr, Austin",1.5,1.6,73.45,78758
+Langford Elementary School,Austin,H-E-B,"6607 S IH 35 Frontage Rd, Austin",1.0,0.9,94.29,78748
+Boone Elementary School,Austin,H-E-B,"6900 Brodie Ln, Austin",1.4,1.5,42.68,78744
+Palm Elementary School,Austin,H-E-B,"6607 S IH 35 Frontage Rd, Austin",3.2,3.5,83.54,78749
+Kocurek Elementary School,Austin,H-E-B,"2110 W Slaughter Ln, Austin",1.1,1.2,60.95,78744
+Casey Elementary School,Austin,H-E-B,"2110 W Slaughter Ln, Austin",0.9,1.1,54.22,78748
+Rodriguez Elementary School,Austin,Fiesta Mart,"5510 Interstate 35, Austin",1.8,2.0,96.83,78748
+Widen Elementary School,Austin,Fiesta Mart,"5510 Interstate 35, Austin",1.9,2.4,93.41,78744
+Galindo Elementary School,Austin,Supermercado Poco Loco,"611 West Ben White Boulevard, Austin",0.7,0.7,88.25,78744
+Uphaus Early Childhood Center,Austin,Fiesta Mart,"5510 Interstate 35, Austin",1.2,1.5,80.88,78704
+Barbara Jordan Elementary School,Austin,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",1.9,2.6,94.03,78744
+Blazier Elementary School,Austin,H-E-B,"6607 S IH 35 Frontage Rd, Austin",3.9,5.1,69.76,78724
+Dr. Guerrero-Thompson Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",0.6,0.7,96.27,78744
+Padrón Elementary School,Austin,H-E-B,"9414 N Lamar Blvd, Austin",1.5,1.5,94.62,78753
+Overton Elementary School,Austin,H-E-B,"7112 Ed Bluestein Blvd #125, Austin",2.8,3.8,94.68,78758
+Perez Elementary School,Austin,H-E-B,"6607 S IH 35 Frontage Rd, Austin",2.6,2.5,88.01,78724
+Webb Primary School,Austin,Walmart Supercenter,"1030 Norwood Park Boulevard, Austin",1.8,4.8,97.48,78744
