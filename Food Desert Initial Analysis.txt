@@ -1,0 +1,45 @@
+Our project examines the phenomenon of food deserts in three Texas cities. We’ll examine relationships between poor neighborhoods and the distance (driving or using public transportation) to the nearest grocery store that sells fresh food. We'll look for correlations between grocery store distance and the poverty level and associated demographics of a neighborhood.
+
+
+
+Food Deserts in Three Texas Cities
+Lynn Leifker and Kellye Rennell
+
+
+Motivation and Summary:
+
+A food desert is an area that lacks access to affordable and fresh fruits, vegetables, whole grains, and dairy items. While food deserts can be urban or rural, we chose to focus on their occurrence in three urban areas: Austin, Dallas, and Laredo, Texas. We further restricted our study to low-income areas where residents are less likely to have access to transportation and therefore are more negatively affected by supermarket distance than residents of wealthier areas. 
+
+Questions we asked: 
+
+If you live in a poor neighborhood, how likely are you to also live in a food desert?
+Is there a difference among the major cities in the severity of this phenomenon?	
+What is the average distance a person in any given neighborhood has to walk/drive/ride a bus to the nearest grocery store? 
+Does distance correlate to the level of poverty in a neighborhood?
+
+Data Gathering:
+
+The demographic data we found mostly tended to be aggregated at the zip code level. In Austin, low-income zip codes range in size from 1.5 square miles to 24.7 square miles — a huge variance that makes it difficult to get accurate information about the presence of food deserts.
+
+We needed physical locations that accurately captured income levels in smaller areas and that could serve as starting points for finding distance to the nearest grocery store. We hit upon the idea of using public elementary schools. Not only do they tend to be at the center of a neighborhood, their eligibility for Title 1 funding—a measure of poverty level—is publicly available. We were able to get data for 2018 that includes the percentage of low-income kids at each school.
+
+Once we had this data, we were able to aggregate it at the zip code level and quickly see that there can be a very wide band of poverty levels within a zip code, confirming that schools are a good metric to work with to find smaller pockets where a food desert might exist.
+
+We found the geographic coordinates of the schools using the Google Geocode API and then searched for the closest grocery stores selling fresh food using Google’s nearby search API. This turned out to be surprisingly complicated. One example: the API excluded H-E-B and Randalls in Austin while including Whole Foods and Walmart Supercenter. We ended up running additional API pulls explicitly calling for H-E-B and Randalls to get them into our dataset. 
+
+Once gathered from the Google API, the data still required significant cleaning because it included stores like Family Dollar that don’t meet the fresh fruit and vegetable qualification. To find replacement stores, we compared results of the API pull to what we found looking on Google Maps. Many times we would see a discrepancy between what the closest store on a map turned out to be and what the API returned. We saw this same discrepancy when looking directly at Google Maps online—some stores seem to be favored over others in the nearby search. After repeated back-and-forth for cleanup it became apparent that it would be faster to look stores up one-by-one on the map and not use the nearby search API.
+
+While gathering data for Dallas and Laredo we found some smaller grocery stores that were ranked low on the nearby search but were actually nearest to a school. We needed to ensure that these small stores met our criteria for fresh foods at a reasonable price before including them in the dataset. Checking customers’ Google reviews and photos of the store provided enough information to make a decision: if we were still unsure after reading the reviews, we left the store out.
+
+Once we had a list of schools and nearest grocery stores, we needed numeric distances. Reasoning that driving distance is a more realistic metric of distance than geographic distance is, we got it from the Google Distance Matrix API. We were able to clean the output and put it into numeric form as part of the API pull loop. 
+
+Data Analysis:
+
+As expected, we found food deserts. 
+
+
+
+
+Surprises: A lot of Dallas grocery stores are across major highways from the neighborhoods. I tried to choose stores that didn’t require crossing a highway (for pedestrians)
+
+Laredo has 100% poverty in Title 1 schools. This is both startling and makes it impossible to do data analysis
