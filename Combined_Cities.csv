@@ -199,23 +199,23 @@ Bus Distance (miles),Closest Store,Driving Distance (miles),Location,Percent in 
 3.8,H-E-B,2.8,Austin,94.68,90-100,Overton Elementary School,"7112 Ed Bluestein Blvd #125, Austin",,78758.0,Yes
 2.5,H-E-B,2.6,Austin,88.01,80-89,Perez Elementary School,"6607 S IH 35 Frontage Rd, Austin",,78724.0,Yes
 4.8,Walmart Supercenter,1.8,Austin,97.48,90-100,Webb Primary School,"1030 Norwood Park Boulevard, Austin",,78744.0,Yes
-,Los Perez Meat Market,0.3,Laredo,100.0,90-100,Antonio M. Bruni Elementary School,601 Park St,,,No
-,Laredo Organic Foods & Vitamin,0.7,Laredo,100.0,90-100,Christopher M. Macdonell Elementary School,611 Salinas Ave,,,No
-,H-E-B,0.9,Laredo,100.0,90-100,Clarence L. Milton Elementary School,2310 E Saunders St,,,No
-,H-E-B,1.2,Laredo,100.0,90-100,D D Hachar Elementary School,1301 Guadalupe St,,,Yes
-,Heights Meat Market,0.9,Laredo,100.0,90-100,Don Jose Gallego,3119 Tilden Ave,,,No
-,Laredo Organic Foods & Vitamin,1.6,Laredo,100.0,90-100,Dovalina Elementary School,611 Salinas Ave,,,Yes
-,H-E-B,8.0,Laredo,100.0,90-100,Francisco Farias Elementary School,4801 San Dario Ave,,,Yes
-,H-E-B,0.2,Laredo,100.0,90-100,Heights Elementary School,1301 Guadalupe St,,,No
-,H-E-B,1.0,Laredo,100.0,90-100,Henry B. Zachry Elementary School,2314 S Zapata Hwy,,,No
-,H-E-B,1.1,Laredo,100.0,90-100,Honore Ligarde Elementary School,2314 S Zapata Hwy,,,Yes
-,Los Perez Meat Market,0.9,Laredo,100.0,90-100,"J C Martin, Jr. Elementary School",601 Park St,,,No
-,Los Perez Meat Market,0.7,Laredo,100.0,90-100,J Z Leyendecker Elementary,601 Park St,,,No
-,H-E-B,0.5,Laredo,100.0,90-100,Kawas Elementary School,2314 S Zapata Hwy,,,No
-,H-E-B,0.8,Laredo,100.0,90-100,Leon Daiches Elementary School,1301 Guadalupe St,,,No
-,H-E-B,1.9,Laredo,100.0,90-100,Michael S. Ryan Elementary School,1301 Guadalupe St,,,Yes
-,Heights Meat Market,0.9,Laredo,100.0,90-100,Pierce Elementary School,3119 Tilden Ave,,,No
-,Heights Meat Market,0.6,Laredo,100.0,90-100,Sanchez Elementary School,3119 Tilden Ave,,,No
-,H-E-B,7.7,Laredo,100.0,90-100,Santa Maria Elementary School,4801 San Dario Ave,,,Yes
-,H-E-B,1.0,Laredo,100.0,90-100,Santo Nino Elementary School,2314 S Zapata Hwy,,,No
-,Heights Meat Market,0.06,Laredo,100.0,90-100,Tarver Elementary School,3119 Tilden Ave,,,No
+,Los Perez Meat Market,0.3,Laredo,100.0,90-100,Antonio M. Bruni Elementary School,601 Park St,,78040.0,No
+,Laredo Organic Foods & Vitamin,0.7,Laredo,100.0,90-100,Christopher M. Macdonell Elementary School,611 Salinas Ave,,78040.0,No
+,H-E-B,0.9,Laredo,100.0,90-100,Clarence L. Milton Elementary School,2310 E Saunders St,,78041.0,No
+,H-E-B,1.2,Laredo,100.0,90-100,D D Hachar Elementary School,1301 Guadalupe St,,78040.0,Yes
+,Heights Meat Market,0.9,Laredo,100.0,90-100,Don Jose Gallego,3119 Tilden Ave,,78040.0,No
+,Laredo Organic Foods & Vitamin,1.6,Laredo,100.0,90-100,Dovalina Elementary School,611 Salinas Ave,,78040.0,Yes
+,H-E-B,8.0,Laredo,100.0,90-100,Francisco Farias Elementary School,4801 San Dario Ave,,78041.0,Yes
+,H-E-B,0.2,Laredo,100.0,90-100,Heights Elementary School,1301 Guadalupe St,,78040.0,No
+,H-E-B,1.0,Laredo,100.0,90-100,Henry B. Zachry Elementary School,2314 S Zapata Hwy,,78046.0,No
+,H-E-B,1.1,Laredo,100.0,90-100,Honore Ligarde Elementary School,2314 S Zapata Hwy,,78046.0,Yes
+,Los Perez Meat Market,0.9,Laredo,100.0,90-100,"J C Martin, Jr. Elementary School",601 Park St,,78040.0,No
+,Los Perez Meat Market,0.7,Laredo,100.0,90-100,J Z Leyendecker Elementary,601 Park St,,78040.0,No
+,H-E-B,0.5,Laredo,100.0,90-100,Kawas Elementary School,2314 S Zapata Hwy,,78046.0,No
+,H-E-B,0.8,Laredo,100.0,90-100,Leon Daiches Elementary School,1301 Guadalupe St,,78040.0,No
+,H-E-B,1.9,Laredo,100.0,90-100,Michael S. Ryan Elementary School,1301 Guadalupe St,,78040.0,Yes
+,Heights Meat Market,0.9,Laredo,100.0,90-100,Pierce Elementary School,3119 Tilden Ave,,78040.0,No
+,Heights Meat Market,0.6,Laredo,100.0,90-100,Sanchez Elementary School,3119 Tilden Ave,,78040.0,No
+,H-E-B,7.7,Laredo,100.0,90-100,Santa Maria Elementary School,4801 San Dario Ave,,78041.0,Yes
+,H-E-B,1.0,Laredo,100.0,90-100,Santo Nino Elementary School,2314 S Zapata Hwy,,78046.0,No
+,Heights Meat Market,0.06,Laredo,100.0,90-100,Tarver Elementary School,3119 Tilden Ave,,78040.0,No
