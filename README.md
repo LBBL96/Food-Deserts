@@ -52,6 +52,7 @@ The heat maps below give an illustration of how dispersed grocery stores are wit
 
 The proportion of Title 1 schools within poverty groups that are in a food desert stays fairly steady across all groups. In the 50-59% poverty range, the proportion is about 50-50. The range where food deserts are proportionally highest is the 60-69% range—75% of schools are in food deserts. Strangely, the second-to-lowest proportion of food deserts occurs in the 90-100% poverty range. Of those schools, 54% are in food deserts and 46% are not.
 
+![Food Desert Crosstab](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Pov_Group_Crosstab.png)
 ### What is the average distance a person in any given neighborhood has to drive to the nearest grocery store?
 
 As seen below, the variance between mean and median driving distance can be extreme in the different cities. 
