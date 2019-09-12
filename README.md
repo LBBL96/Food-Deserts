@@ -27,28 +27,34 @@ Once we had a list of schools and nearest grocery stores, we needed the distance
 ![Combined Cities.csv](https://github.com/LBBL96/Food-Deserts/blob/master/Datasets/Combined_Cities.csv)
 
 ## Findings
-1) If you live in a neighborhood with a Title 1 school, how likely are you also to live in a food desert?
-2) Is there a difference among the three cities in the proportion of food deserts?
+**If you live in a neighborhood with a Title 1 school, how likely are you also to live in a food desert?**
+**Is there a difference among the three cities in the proportion of food deserts?**
 ![low income](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Percent_Low_Income_Pov_Deserts.png)
 We found that the likelihood that a neighborhood is located in a food desert varies significantly based on which city is being studied. In Austin, 65% of Title 1 schools are in food deserts, and 35% are not. Dallas has a slightly lower rate — 59% of Title 1 schools are in food deserts, while 41% are not. Laredo proves to be surprising outlier in this group. Although its Title 1 schools have the greatest poverty rate of the three cities, it has the lowest occurrence of food deserts: only 30% of Title 1 schools are in a food desert. The overall likelihood that any given neighborhood across the three cities is in a food desert is 58%.
 
 The heat maps below give an illustration of how dispersed grocery stores are within neighborhoods with Title 1 schools. The heat map shows where Title 1 schools are located, and darker red corresponds to greater poverty within a school. The blue squares represent locations of grocery stores.
+
 
 ![Austin Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Austin_Heatmap.png)
 
 ![Dallas Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Dallas_Heatmap.png)
 
 ![Laredo Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Laredo_Heatmap.png)
+**test**
 
 ![As poverty increases](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Food_Desert_As_Poverty_Increases.png)
 
+
 ![Crosstab](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Pov_Group_Crosstab.png)
+
+
+**test**
 
 ![Mean vs Median Drive](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Mean_vs_Median_Driving_Distance.png)
 
 ![Median drive distance](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Median_driving_distance.png)
 
-
+5) Does the driving distance correlate to the level of poverty in a neighborhood?
 
 ## Surprises
 
