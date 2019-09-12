@@ -35,7 +35,7 @@ Once we had a list of schools and nearest grocery stores, we needed the distance
 
 **If you live in a poor neighborhood, how likely are you to also live in a food desert? Is there a difference among the cities in the severity of this phenomenon?**
 
-
+![Percent Low Income](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Percent_Low_Income_Pov_Deserts.png)
 
 We found that the likelihood that a neighborhood is located in a food desert varies significantly based on which city is being studied. In Austin, 65% of Title 1 schools are in food deserts, and 35% are not. Dallas has a slightly lower rate — 59% of Title 1 schools are in food deserts, while 41% are not. Laredo proves to be surprising outlier in this group. Although its Title 1 schools have the greatest poverty rate of the three cities, it has the lowest occurrence of food deserts: only 30% of Title 1 schools are in a food desert. The overall likelihood that any given neighborhood across the three cities is in a food desert is 58%.
 
