@@ -42,8 +42,8 @@ We found that the likelihood that a neighborhood is located in a food desert var
 The heat maps below give an illustration of how dispersed grocery stores are within neighborhoods with Title 1 schools. The heat map shows where Title 1 schools are located, and darker red corresponds to greater poverty within a school. The blue squares represent locations of grocery stores.
 
 ![Austin Heatmap]( https://github.com/LBBL96/Food-Deserts/blob/master/Images/Austin_Heatmap.png)
-![Dallas Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Dallas_Heatmap.png)
-![Laredo Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Laredo_Heatmap.png)
+![Dallas Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Dallas.png)
+![Laredo Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Laredo.png)
 
 ### Does the likelihood of living in a food desert increase as poverty increases?
 ![Likelihood in food desert]( https://github.com/LBBL96/Food-Deserts/blob/master/Images/Food_Desert_As_Poverty_Increases.png)
