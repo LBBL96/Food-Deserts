@@ -4,10 +4,14 @@
 Lynn Leifker and Kellye Rennell
 
 ## Project Description
+A food desert is an area that lacks access to affordable and fresh fruits, vegetables, whole grains, and dairy items. We chose to study their occurrence in three urban areas: Austin, Dallas, and Laredo, Texas. We further restricted our study to low-income areas where residents are less likely to have access to transportation and therefore are more negatively affected by supermarket distance than residents of wealthier areas. 
 
 ## Research Questions
 
-## Data Gathering:
+## Data Gathering
+![Schools PDF](https://github.com/LBBL96/Food-Deserts/blob/master/Datasets/Title%20I%20Schools.pdf)
+
+![Combined Cities.csv](https://github.com/LBBL96/Food-Deserts/blob/master/Datasets/Combined_Cities.csv)
 
 ## Findings
 ![low income](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Percent_Low_Income_Pov_Deserts.png)
