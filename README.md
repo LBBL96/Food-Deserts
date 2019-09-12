@@ -43,7 +43,7 @@ The heat maps below give an illustration of how dispersed grocery stores are wit
 
 ![Austin Heatmap]( https://github.com/LBBL96/Food-Deserts/blob/master/Images/Austin_Heatmap.png)
 ![Dallas Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Dallas.png)
-![Laredo Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Laredo.png)
+![Laredo Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Laredo_Heatmap.png
 
 ### Does the likelihood of living in a food desert increase as poverty increases?
 ![Likelihood in food desert]( https://github.com/LBBL96/Food-Deserts/blob/master/Images/Food_Desert_As_Poverty_Increases.png)
