@@ -15,6 +15,12 @@ A food desert is an area that lacks access to affordable and fresh fruits, veget
 ## Data Gathering
 The demographic data we found mostly tended to be aggregated by zip code, which vary in size, making it difficult to get accurate information about the presence of food deserts at a neighborhood level. To study food deserts in smaller areas, we needed to find points to represent the centers of neighborhoods. We decided to use Title 1 elementary schools, which qualify for federal funding for low-income families. Not only do elementary schools tend to be in the center of neighborhoods, the federal government provides annual reports on the poverty level within Title 1 schools, which gave us the ability draw conclusions about the relationship between poverty level and food desert status. We pulled the 2018 list of Title 1 schools from the U.S. Department of Education to begin our study.
 
+Using the Google Geocode API we found each school’s coordinates. We then searched for the closest grocery stores selling fresh food using Google’s nearby search API. This turned out to be surprisingly complicated. For example, the API excluded H-E-B and Randalls in Austin while including Whole Foods and Walmart Supercenter. We ended up running additional API pulls explicitly calling for H-E-B and Randalls to get them into our dataset. 
+
+Once gathered from the Google API, the data still required significant cleaning because it included stores like Family Dollar that don’t meet the fresh fruit and vegetable qualification. To find replacement stores, we compared results of the API pulls to what we found when we looked on Google Maps. Many times we would see a discrepancy between what the closest store on a map turned out to be and what the API returned. After repeated back-and-forth for cleanup it became apparent that it would be faster to look stores up one-by-one on the map and not use the nearby search API.
+
+Once we had a list of schools and nearest grocery stores, we needed the distance between them. Reasoning that driving distance is a more realistic metric of distance than geographic distance is, we used the Google Distance Matrix API to find this.
+
 
 ![Schools PDF](https://github.com/LBBL96/Food-Deserts/blob/master/Datasets/Title%20I%20Schools.pdf)
 
