@@ -5,4 +5,18 @@ Lynn Leifker and Kellye Rennell
 
 ## Project Description
 
-A food desert is an area that lacks access to affordable and fresh fruits, vegetables, whole grains, and dairy items. We chose to study their occurrence in three urban areas: Austin, Dallas, and Laredo, Texas. We further restricted our study to low-income areas where residents are less likely to have access to transportation and therefore are more negatively affected by supermarket distance than residents of wealthier areas. 
+## Research Questions
+
+## Data Gathering:
+
+## Findings
+
+## Surprises
+
+## Conclusions
+
+## Suggestions for Further Study
+
+Are there correlations between the racial and ethnic makeup of a given neighborhood and its food desert status?
+
+What are the relative health outcomes
