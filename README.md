@@ -10,7 +10,7 @@ Lynn Leifker and Kellye Rennell
 ## Data Gathering:
 
 ## Findings
-![alt text]
+![Austin Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Austin_Heatmap.png)
 
 ## Surprises
 
