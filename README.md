@@ -75,6 +75,7 @@ The correlation coefficient between poverty level and driving distance is 0.003.
 
 The poverty disparity in Title 1 schools among the cities was unexpected, as was its variance within cities. Looking at this boxplot, you can see that Austin has the greatest spread in IQR and the lowest median poverty level. Dallas’ lowest poverty level is 55%, but this and every other level up to 75% is an outlier. Laredo has no spread at all. Every one of its 20 Title 1 schools has a poverty level of 100%!
 
+![Boxplot](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Boxplot_Title_1_Poverty.png)
 
 Examining the zip codes containing the most Title 1 schools shows another surprising result: the proportion that are in a food desert can be radically different from zip code to zip code, even within the same city. In Dallas, the two zip codes containing the greatest number of Title 1 schools are completely opposite in food desert status: in 75217, 14 of 16 schools are in a food desert, while in 75211, only 2 of 14 are in a food desert.
 
