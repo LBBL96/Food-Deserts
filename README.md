@@ -7,7 +7,11 @@ Lynn Leifker and Kellye Rennell
 A food desert is an area that lacks access to affordable and fresh fruits, vegetables, whole grains, and dairy items. We chose to study their occurrence in three urban areas: Austin, Dallas, and Laredo, Texas. We further restricted our study to low-income areas where residents are less likely to have access to transportation and therefore are more negatively affected by supermarket distance than residents of wealthier areas. 
 
 ## Research Questions
-
+1) If you live in a neighborhood with a Title 1 school, how likely are you also to live in a food desert?
+2) Is there a difference among the three cities in the proportion of food deserts?
+3) Does the likelihood of living in a food desert increase as poverty increases?
+4) What is the average distance a person in any given neighborhood must drive to get to the nearest grocery store?
+5) Does driving distance correlate to the level of poverty in a neighborhood?
 ## Data Gathering
 ![Schools PDF](https://github.com/LBBL96/Food-Deserts/blob/master/Datasets/Title%20I%20Schools.pdf)
 
