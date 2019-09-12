@@ -85,4 +85,5 @@ In the smaller city of Laredo, the low likelihood of living in a food desert (30
 ##Suggestions for Further Study:
 
 Are there correlations between the racial and ethnic makeup of a given neighborhood and its food desert status? 
+
 What are the relative health outcomes for neighborhoods whose poverty level is similar but whose food desert status is radically different? 
