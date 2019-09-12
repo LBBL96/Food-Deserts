@@ -33,7 +33,7 @@ Once we had a list of schools and nearest grocery stores, we needed the distance
 
 ## Findings:
 
-**If you live in a poor neighborhood, how likely are you to also live in a food desert? Is there a difference among the cities in the severity of this phenomenon?**
+### If you live in a poor neighborhood, how likely are you to also live in a food desert? Is there a difference among the cities in the severity of this phenomenon?
 
 ![Percent Low Income](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Percent_Low_Income_Pov_Deserts.png)
 
@@ -45,14 +45,14 @@ The heat maps below give an illustration of how dispersed grocery stores are wit
 ![Dallas Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Dallas_Heatmap.png)
 ![Laredo Heatmap](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Laredo_Heatmap.png)
 
-**Does the likelihood of living in a food desert increase as poverty increases?**
+### Does the likelihood of living in a food desert increase as poverty increases?
 ![Likelihood in food desert]( https://github.com/LBBL96/Food-Deserts/blob/master/Images/Food_Desert_As_Poverty_Increases.png)
 
 ![Food Desert Crosstab](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Pov_Group_Crosstab.png)
 
 The proportion of Title 1 schools within poverty groups that are in a food desert stays fairly steady across all groups. In the 50-59% poverty range, the proportion is about 50-50. The range where food deserts are proportionally highest is the 60-69% range—75% of schools are in food deserts. Strangely, the second-to-lowest proportion of food deserts occurs in the 90-100% poverty range. Of those schools, 54% are in food deserts and 46% are not.
 
-**What is the average distance a person in any given neighborhood has to drive to the nearest grocery store?**
+### What is the average distance a person in any given neighborhood has to drive to the nearest grocery store?
 
 As seen below, the variance between mean and median driving distance can be extreme in the different cities. 
 
@@ -65,7 +65,7 @@ Based on this, we chose median driving distance as the better metric for average
 Residents of Austin’s and Dallas’ Title 1 school neighborhoods had comparable drives, at a median of 1.3 miles and 1.2 miles, respectively. Laredo’s median of 0.9 miles shows that on average, a Title 1 school in Laredo is not in a food desert.
 
 
-**Does driving distance correlate to the level of poverty in a neighborhood?**
+### Does driving distance correlate to the level of poverty in a neighborhood?
 
 
 The correlation coefficient between poverty level and driving distance is 0.003. This means there is no relationship whatsoever between an increase in poverty level and increase in driving distance.
