@@ -48,7 +48,6 @@ The heat maps below give an illustration of how dispersed grocery stores are wit
 ### Does the likelihood of living in a food desert increase as poverty increases?
 ![Likelihood in food desert]( https://github.com/LBBL96/Food-Deserts/blob/master/Images/Food_Desert_As_Poverty_Increases.png)
 
-![Food Desert Crosstab](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Pov_Group_Crosstab.png)
 
 The proportion of Title 1 schools within poverty groups that are in a food desert stays fairly steady across all groups. In the 50-59% poverty range, the proportion is about 50-50. The range where food deserts are proportionally highest is the 60-69% range—75% of schools are in food deserts. Strangely, the second-to-lowest proportion of food deserts occurs in the 90-100% poverty range. Of those schools, 54% are in food deserts and 46% are not.
 
