@@ -79,7 +79,7 @@ The poverty disparity in Title 1 schools among the cities was unexpected, as was
 
 Examining the zip codes containing the most Title 1 schools shows another surprising result: the proportion that are in a food desert can be radically different from zip code to zip code, even within the same city. In Dallas, the two zip codes containing the greatest number of Title 1 schools are completely opposite in food desert status: in 75217, 14 of 16 schools are in a food desert, while in 75211, only 2 of 14 are in a food desert.
 
-
+![Six Zips](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Six_Zips.png)
 
 
 ## Conclusion:
