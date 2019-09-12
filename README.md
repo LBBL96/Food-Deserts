@@ -10,6 +10,7 @@ Lynn Leifker and Kellye Rennell
 ## Data Gathering:
 
 ## Findings
+![alt text]
 
 ## Surprises
 
