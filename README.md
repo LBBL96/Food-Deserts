@@ -49,9 +49,12 @@ The heat maps below give an illustration of how dispersed grocery stores are wit
 ![Median drive distance](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Median_driving_distance.png)
 
 
+
 ## Surprises
 
 ![Boxplot](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Boxplot_Title_1_Poverty.png)
+
+
 
 ![Six Zips](https://github.com/LBBL96/Food-Deserts/blob/master/Images/Six_Zips.png)
 
