@@ -29,7 +29,7 @@ Using the Google Geocode API we found each school’s coordinates. We then used 
 
 Once gathered from the Google API, the data still required significant cleaning because it included stores that didn’t meet the fresh fruit and vegetable qualification. To find replacement stores, we compared results of the API calls to what we found when we looked on Google Maps. Many times we would see a discrepancy between what the closest store on a map turned out to be and what the API returned. We suspect that a hidden algorithm accounts for which stores get the top rankings for location. After repeated back-and-forth comparisons between API results and the maps, it became apparent that it would be faster to look stores up on the map directly and not use the Nearby Search API.
 
-Once we had a list of Title 1 schools and their nearest grocery stores, we needed to find the distance between them. Reasoning that driving distance is a more realistic metric of distance than geographic distance ("as the crow flies"), we used the Google Distance Matrix API to find driving distance.
+Once we had a list of Title 1 schools and their nearest grocery stores, we needed to find the distance between them. Reasoning that driving distance is a more realistic metric of distance than geographic distance (i.e., "as the crow flies"), we used the Google Distance Matrix API to find driving distance.
 
 [Combined Cities.csv](https://github.com/LBBL96/Food-Deserts/blob/master/Datasets/Combined_Cities.csv)
 
